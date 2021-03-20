@@ -2,7 +2,7 @@
 
 This project was designed as a solution to a challenge! I simply a quiz app about countries and their capitals.
 
-Live version app can be found `https://devbinbello-country-quiz.netlify.app/`
+Live version of the app can be found <a href ="https://devbinbello-country-quiz.netlify.app/">Here</a>
 
 ## Development server
 
