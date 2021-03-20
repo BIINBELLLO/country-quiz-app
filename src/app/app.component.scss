@@ -1,0 +1,45 @@
+.page__wrapper {
+  min-height: 100vh;
+  background: rgba(34, 41, 139, 0.7);
+  overflow: hidden;
+  .left {
+    position: relative;
+    width: 914px;
+    height: 1130px;
+    top: -300px;
+    right: -934px;
+    background: rgba(96, 102, 208, 0.7);
+    border-radius: 33px;
+    transform: rotate(-65.14deg);
+    overflow-x: hidden;
+  }
+  .right {
+    position: relative;
+    width: 914px;
+    height: 1130px;
+    left: -68px;
+    top: -790px;
+    background: rgba(96, 102, 208, 0.7);
+    border-radius: 33px;
+    transform: rotate(-65.14deg);
+  }
+
+  .main-content {
+    position: absolute;
+    top: 20%;
+    left: auto;
+    right: auto;
+    width: 98%;
+  }
+  @media screen and (max-width: 442px) {
+    .left {
+      top: -507px;
+      right: -376px;
+    }
+
+    .right {
+      left: -829px;
+      top: -1131px;
+    }
+  }
+}
