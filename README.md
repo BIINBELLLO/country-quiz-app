@@ -1,6 +1,8 @@
 # CountryQuizApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
+This project was designed as a solution to a challenge! I simply a quiz app about countries and their capitals.
+
+Live version app can be found `https://devbinbello-country-quiz.netlify.app/`
 
 ## Development server
 
